@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="iText-5.0.6.jar"/>
+	<classpathentry kind="lib" path="batik-awt-util.jar"/>
+	<classpathentry kind="lib" path="batik-bridge.jar"/>
+	<classpathentry kind="lib" path="batik-css.jar"/>
+	<classpathentry kind="lib" path="batik-dom.jar"/>
+	<classpathentry kind="lib" path="batik-ext.jar"/>
+	<classpathentry kind="lib" path="batik-gvt.jar"/>
+	<classpathentry kind="lib" path="batik-parser.jar"/>
+	<classpathentry kind="lib" path="batik-script.jar"/>
+	<classpathentry kind="lib" path="batik-svg-dom.jar"/>
+	<classpathentry kind="lib" path="batik-util.jar"/>
+	<classpathentry kind="lib" path="batik-xml.jar"/>
+	<classpathentry kind="lib" path="bcmail-jdk14-138.jar"/>
+	<classpathentry kind="lib" path="bcprov-jdk14-138.jar"/>
+	<classpathentry kind="lib" path="bctsp-jdk14-138.jar"/>
+	<classpathentry kind="lib" path="itext-hyph-xml.jar"/>
+	<classpathentry kind="lib" path="iTextAsian.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
